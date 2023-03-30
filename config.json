@@ -1,0 +1,194 @@
+{
+    "language": "en",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "adminOnly": false,
+    "keyAdminOnly": "",
+    "commandDisabled": [
+        "",
+        ""
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Mental",
+    "PREFIX": "/",
+    "OTHERBOT": [
+        "",
+        "100025398773009",
+        "100025398773009",
+        "100017821507944",
+        "100017821507944",
+        "100007775701931",
+        "100007775701931",
+        "100074198946338",
+        "100074198946338",
+        "100079671964543",
+        "100079671964543",
+        "100053309165694",
+        "100053309165694"
+    ],
+    "UNSENTVIP": [
+        "100037743553265"
+    ],
+    "GOD": [
+        "100037743553265"
+    ],
+    "ADMINBOT": [
+        "100037743553265",
+        ""
+    ],
+    "OWNER": "Priyansh Rajput",
+    "AGE": "22",
+    "GENDER": "Male",
+    "FACEBOOK": "https://www.facebook.com/priyanshu.rajput.official",
+    "AutoOffBot": "disable",
+    "AutoOffBotStartSleep": "01:00",
+    "AutoGreet": "enable",
+    "AutoGreetWithSticker": "enable",
+    "AutoGreetSendPerHour": "6",
+    "AutoBioStatus": "enable",
+    "AutoBioStatusSetPerHour": "12",
+    "HolidayAutoGreet": "enable",
+    "AutoPendingGroupChat": "disable",
+    "AcceptFriendRequest": "disable",
+    "AutoPostChristmasCountdown": "disable",
+    "AutoPostGreet": "enable",
+    "AutoPostGreetPostPerHour": "12",
+    "AutoPost": "enable",
+    "AutoPostText": "Welcome to PriyanshBot",
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36"
+    },
+    "help": {
+        "autoUnsend": "",
+        "delayUnsend": 60
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "rank": {
+        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
+    },
+    "rankup": {
+        "autoUnsend": "",
+        "unsendMessageAfter": 5
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "linkword": {
+        "APIKEY": ""
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "luật bot": {
+        "autoUnsend": true,
+        "delayUnsend": 30
+    },
+    "lbot": {
+        "autoUnsend": true,
+        "delayUnsend": 30
+    },
+    "work-beta": {
+        "cooldownTime": 1200000
+    },
+    "job-beta": {
+        "cooldownTime": 5000
+    },
+    "job": {
+        "cooldownTime": 5000
+    },
+    "sauce": {
+        "SAUCENAO_API": "a2430f4a078a4782540142bfad2551f3384bd20f"
+    },
+    "weather": {
+        "OPEN_WEATHER": "b7f1db5959a1f5b2a079912b03f0cd96"
+    },
+    "simsimi": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "sim": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "slap": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 19310000
+    },
+    "manslap": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "testcovid": {
+        "APIKEY": "Meew_kB5wRAlpHhrAj0GhRzmmLHesvvTbXE"
+    },
+    "fish": {
+        "cooldownTime": 1000000
+    },
+    "version": "30.0.0",
+    "play": {
+        "YOUTUBE_API": "AIzaSyBFNMIC7pTPGo2zBxE8JrF0oPpOpxV6KU8",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBFNMIC7pTPGo2zBxE8JrF0oPpOpxV6KU8"
+    },
+    "simv2": {
+        "APIKEY": "mzkVip_Simsimi"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "simvoice": {
+        "APIKEY": "Meew_hTrAe8Ipec8EsSRsQXoMO7v0XaPgY0"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyBtiD442srhczDpcg8xbhinP423BeUFXB8",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "slapv2": {
+        "APIKEY": ""
+    },
+    "videov2": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "help2": {
+        "autoUnsend": true,
+        "delayUnsend": 300
+    },
+    "god": {
+        "enable": true
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "messageforrealcreator": {
+        "enable": true
+    },
+    "singv23": {
+        "YOUTUBE_API": "AIzaSyCqox-KXEwDncsuo2HIpE0MF8J7ATln5Vc"
+    }
+}
